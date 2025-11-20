@@ -1,0 +1,16 @@
+model_logs/model_places2/snap.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model_logs/model_celeba/snap.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.data filter=lfs diff=lfs merge=lfs -text
+inpaint_ops.py filter=lfs diff=lfs merge=lfs -text
+model_logs filter=lfs diff=lfs merge=lfs -text
+HED filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+examples filter=lfs diff=lfs merge=lfs -text
+guided_batch_test.py filter=lfs diff=lfs merge=lfs -text
+inpaint_model.py filter=lfs diff=lfs merge=lfs -text
+test.py filter=lfs diff=lfs merge=lfs -text
+train.py filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+batch_test.py filter=lfs diff=lfs merge=lfs -text
+inpaint.yml filter=lfs diff=lfs merge=lfs -text
